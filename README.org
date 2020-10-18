@@ -1,0 +1,3 @@
+* Phlox - a Pharo implementation of Lox
+
+This repo aims to be my attempt at reading /Crafting Interpreters/
